@@ -1,0 +1,8 @@
+requests
+pycryptodome
+colorama
+urllib3
+psutil
+protobuf
+aiohttp
+pyTelegramBotAPI
